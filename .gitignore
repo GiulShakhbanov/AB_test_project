@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+.venv/
+.idea/
+data/raw/
+.DS_Store
+__pycache__/
+.idea/
+outputs/
+AGENTS.md
